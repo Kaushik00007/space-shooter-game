@@ -22,7 +22,7 @@
 Clone the repository:
 ```bash
 git clone https://github.com/Kaushik00007/space-shooter-game
-cd sci-fi-galactic-warfare
+cd space-shooter-game
 ```
 
 Install the required dependencies:
