@@ -69,4 +69,17 @@ Huge thanks to:
 - **Kenney.nl**, **OpenGameArt**, **Freesound.org** for assets  
 
 ---
+## 🙌 Contributions
+Contributions are welcome! Follow these steps:
+```
+Fork the repository
+Create a new branch 
+Commit your changes
+Open a pull request
+```
+## 📧 Contact
+For any queries, reach out via:
 
+- 📧 Email: kaushi00007@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kaushik-k-dev
+- 🌍 GitHub: https://github.com/Kaushik00007/Kaushik00007
