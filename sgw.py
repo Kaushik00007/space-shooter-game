@@ -71,7 +71,7 @@ font_medium = pygame.font.SysFont(None, 36)
 font_small = pygame.font.SysFont(None, 24)
 
 
-# ---------------------- Functions ---------------------- #
+# ----------------------Functions---------------------- #
 def draw_background():
     global bg_y
     screen.blit(background_img, (0, bg_y))
