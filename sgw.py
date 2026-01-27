@@ -8,7 +8,7 @@ pygame.mixer.init()
 # Screen dimensions
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Galactic Warfare")
+pygame.display.set_caption("Sci-Fi Galactic Warfare")
 
 # Load assets from the assets folder
 player_ship_img = pygame.image.load("assets/player_ship.png").convert_alpha()
