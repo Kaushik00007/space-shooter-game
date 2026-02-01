@@ -54,10 +54,10 @@ shot_cooldown = 300
 
 # game objects
 bullet_trails = []
-bullets = []     # each bullet: {'x': value, 'y': value}
+bullets = []   
 powerups = []
-enemies = []     # each enemy: {'x': value, 'y': value, 'speed': value}
-explosions = []  # each explosion: {'x': value, 'y': value, 'timer': value}
+enemies = []   
+explosions = [] 
 score = 0
 
 shield_active = False
