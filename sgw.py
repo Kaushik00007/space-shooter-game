@@ -43,6 +43,7 @@ powerup_sound.set_volume(1.0)
 bg_scroll_speed = 1
 bg_y = 0
 
+# Game states: "menu", "playing", "game_over"
 game_state = "menu"
 
 player_x = WIDTH // 2 - 25  
